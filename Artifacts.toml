@@ -1,0 +1,51 @@
+[[Qdrant]]
+arch = "aarch64"
+git-tree-sha1 = "b93cbadf85a9b5410b92796f69e26cc9be57f90a"
+os = "macos"
+
+    [[Qdrant.download]]
+    sha256 = "b42909b0419a96d322211741c656339fac6847d66a8261b780458078724116fc"
+    url = "https://github.com/JuliaBinaryWrappers/Qdrant_jll.jl/releases/download/Qdrant-v1.15.3+0/Qdrant.v1.15.3.aarch64-apple-darwin.tar.gz"
+[[Qdrant]]
+arch = "aarch64"
+git-tree-sha1 = "a0017623667b1778a5396db4d87fa101d818d21d"
+libc = "musl"
+os = "linux"
+
+    [[Qdrant.download]]
+    sha256 = "0ffd47cfa2e87cf2d0d9f1a32affe24192c084e69f71f403cd200a0499c7a162"
+    url = "https://github.com/JuliaBinaryWrappers/Qdrant_jll.jl/releases/download/Qdrant-v1.15.3+0/Qdrant.v1.15.3.aarch64-linux-musl.tar.gz"
+[[Qdrant]]
+arch = "x86_64"
+git-tree-sha1 = "1629652377eb1a3dbaf7bd232377966cefadbb52"
+os = "macos"
+
+    [[Qdrant.download]]
+    sha256 = "a08293f8f545b369dc6d97e0329f4c9877f05935a8a60e00183ebe03c2e4fcb4"
+    url = "https://github.com/JuliaBinaryWrappers/Qdrant_jll.jl/releases/download/Qdrant-v1.15.3+0/Qdrant.v1.15.3.x86_64-apple-darwin.tar.gz"
+[[Qdrant]]
+arch = "x86_64"
+git-tree-sha1 = "6220bffd6d0b06120dd7b3506133e127e6b09d89"
+libc = "glibc"
+os = "linux"
+
+    [[Qdrant.download]]
+    sha256 = "95bc440f40f0290e8415cc0712dd91e16c4e820d5d95c14dddcfb849ec32029a"
+    url = "https://github.com/JuliaBinaryWrappers/Qdrant_jll.jl/releases/download/Qdrant-v1.15.3+0/Qdrant.v1.15.3.x86_64-linux-gnu.tar.gz"
+[[Qdrant]]
+arch = "x86_64"
+git-tree-sha1 = "970824858bece97125ccdc841742530eb983df13"
+libc = "musl"
+os = "linux"
+
+    [[Qdrant.download]]
+    sha256 = "144ea3690a39cead48726f56ef4542d6415932a901ac8c43fc2431c3360f9cc8"
+    url = "https://github.com/JuliaBinaryWrappers/Qdrant_jll.jl/releases/download/Qdrant-v1.15.3+0/Qdrant.v1.15.3.x86_64-linux-musl.tar.gz"
+[[Qdrant]]
+arch = "x86_64"
+git-tree-sha1 = "52699495c71302289fdff093ea4fc3d7a85a2958"
+os = "windows"
+
+    [[Qdrant.download]]
+    sha256 = "975e4bbb7bbc544f045209731a8c21e17e369f334d2e5975a6b06a4a0dedc5e5"
+    url = "https://github.com/JuliaBinaryWrappers/Qdrant_jll.jl/releases/download/Qdrant-v1.15.3+0/Qdrant.v1.15.3.x86_64-w64-mingw32.tar.gz"
