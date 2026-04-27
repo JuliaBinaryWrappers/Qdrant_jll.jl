@@ -1,51 +1,51 @@
 [[Qdrant]]
 arch = "aarch64"
-git-tree-sha1 = "b93cbadf85a9b5410b92796f69e26cc9be57f90a"
+git-tree-sha1 = "4723e58b38444b55f838cb4d134708e561c9d3f7"
 os = "macos"
 
     [[Qdrant.download]]
-    sha256 = "b42909b0419a96d322211741c656339fac6847d66a8261b780458078724116fc"
-    url = "https://github.com/JuliaBinaryWrappers/Qdrant_jll.jl/releases/download/Qdrant-v1.15.3+0/Qdrant.v1.15.3.aarch64-apple-darwin.tar.gz"
+    sha256 = "ec3716a0b26c9feda47c1f8e03a43a3bb12e0bb50da5d611a53df390eca7fe5c"
+    url = "https://github.com/JuliaBinaryWrappers/Qdrant_jll.jl/releases/download/Qdrant-v1.17.1+0/Qdrant.v1.17.1.aarch64-apple-darwin.tar.gz"
 [[Qdrant]]
 arch = "aarch64"
-git-tree-sha1 = "a0017623667b1778a5396db4d87fa101d818d21d"
+git-tree-sha1 = "c29f7c58632c52c87e03f110f23a0531e788a09a"
 libc = "musl"
 os = "linux"
 
     [[Qdrant.download]]
-    sha256 = "0ffd47cfa2e87cf2d0d9f1a32affe24192c084e69f71f403cd200a0499c7a162"
-    url = "https://github.com/JuliaBinaryWrappers/Qdrant_jll.jl/releases/download/Qdrant-v1.15.3+0/Qdrant.v1.15.3.aarch64-linux-musl.tar.gz"
+    sha256 = "789c1df8f4a224efb378e2d4462941228026e37c285c512fb87fadfb2736b4fc"
+    url = "https://github.com/JuliaBinaryWrappers/Qdrant_jll.jl/releases/download/Qdrant-v1.17.1+0/Qdrant.v1.17.1.aarch64-linux-musl.tar.gz"
 [[Qdrant]]
 arch = "x86_64"
-git-tree-sha1 = "1629652377eb1a3dbaf7bd232377966cefadbb52"
+git-tree-sha1 = "698b5f6bca8e3bca14c5516e3cc121ff9c5fcfad"
 os = "macos"
 
     [[Qdrant.download]]
-    sha256 = "a08293f8f545b369dc6d97e0329f4c9877f05935a8a60e00183ebe03c2e4fcb4"
-    url = "https://github.com/JuliaBinaryWrappers/Qdrant_jll.jl/releases/download/Qdrant-v1.15.3+0/Qdrant.v1.15.3.x86_64-apple-darwin.tar.gz"
+    sha256 = "639abe5fc1a28ed614e9feebcc467e1b9bda2ece84808c5e4c4c390b1d06c1c6"
+    url = "https://github.com/JuliaBinaryWrappers/Qdrant_jll.jl/releases/download/Qdrant-v1.17.1+0/Qdrant.v1.17.1.x86_64-apple-darwin.tar.gz"
 [[Qdrant]]
 arch = "x86_64"
-git-tree-sha1 = "6220bffd6d0b06120dd7b3506133e127e6b09d89"
+git-tree-sha1 = "272d4e6303a9ea651a96ddaf5d38656fb3006fcb"
 libc = "glibc"
 os = "linux"
 
     [[Qdrant.download]]
-    sha256 = "95bc440f40f0290e8415cc0712dd91e16c4e820d5d95c14dddcfb849ec32029a"
-    url = "https://github.com/JuliaBinaryWrappers/Qdrant_jll.jl/releases/download/Qdrant-v1.15.3+0/Qdrant.v1.15.3.x86_64-linux-gnu.tar.gz"
+    sha256 = "8670fec59fa9528bf8dd712e68c461919e0d3a9bab20d81a32af58cd4e74d693"
+    url = "https://github.com/JuliaBinaryWrappers/Qdrant_jll.jl/releases/download/Qdrant-v1.17.1+0/Qdrant.v1.17.1.x86_64-linux-gnu.tar.gz"
 [[Qdrant]]
 arch = "x86_64"
-git-tree-sha1 = "970824858bece97125ccdc841742530eb983df13"
+git-tree-sha1 = "85449642b48381d558546356eebaa6abde3e706d"
 libc = "musl"
 os = "linux"
 
     [[Qdrant.download]]
-    sha256 = "144ea3690a39cead48726f56ef4542d6415932a901ac8c43fc2431c3360f9cc8"
-    url = "https://github.com/JuliaBinaryWrappers/Qdrant_jll.jl/releases/download/Qdrant-v1.15.3+0/Qdrant.v1.15.3.x86_64-linux-musl.tar.gz"
+    sha256 = "c157eb0125273db158c5a91d379c7923091ec71e27f09e8572c9f30ed2ff7534"
+    url = "https://github.com/JuliaBinaryWrappers/Qdrant_jll.jl/releases/download/Qdrant-v1.17.1+0/Qdrant.v1.17.1.x86_64-linux-musl.tar.gz"
 [[Qdrant]]
 arch = "x86_64"
-git-tree-sha1 = "52699495c71302289fdff093ea4fc3d7a85a2958"
+git-tree-sha1 = "1df3078034d9e2b19742625fc2940a854fca046b"
 os = "windows"
 
     [[Qdrant.download]]
-    sha256 = "975e4bbb7bbc544f045209731a8c21e17e369f334d2e5975a6b06a4a0dedc5e5"
-    url = "https://github.com/JuliaBinaryWrappers/Qdrant_jll.jl/releases/download/Qdrant-v1.15.3+0/Qdrant.v1.15.3.x86_64-w64-mingw32.tar.gz"
+    sha256 = "9d23b37b8af5e8deb7bae852def32a8e16baaedf55e74225dc00decfcb1816b5"
+    url = "https://github.com/JuliaBinaryWrappers/Qdrant_jll.jl/releases/download/Qdrant-v1.17.1+0/Qdrant.v1.17.1.x86_64-w64-mingw32.tar.gz"
